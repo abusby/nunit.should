@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NUnit.Should">
+</Property><Property Name="Solution File" Value="C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\NUnit.Should.sln">
+</Property><Property Name="Date" Value="18 February 2011">
+</Property><Property Name="Time" Value="08:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NUnit.Should.sln" Description="File successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should.sln">
+</Event><Event ErrorLevel="0" Project="NUnit.Should" Source="NUnit.Should\NUnit.Should.csproj" Description="Project file successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should\NUnit.Should.csproj">
+</Event><Event ErrorLevel="0" Project="NUnit.Should" Source="NUnit.Should\NUnitExtensions.cs" Description="File successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should\NUnitExtensions.cs">
+</Event><Event ErrorLevel="0" Project="NUnit.Should" Source="NUnit.Should\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NUnit.Should" Source="NUnit.Should\NUnit.Should.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NUnit.Should" Source="NUnit.Should\NUnit.Should.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NUnit.Should.Tests" Source="NUnit.Should.Tests\NUnit.Should.Tests.csproj" Description="Project file successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should.Tests\NUnit.Should.Tests.csproj">
+</Event><Event ErrorLevel="0" Project="NUnit.Should.Tests" Source="NUnit.Should.Tests\ShouldTests.cs" Description="File successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should.Tests\ShouldTests.cs">
+</Event><Event ErrorLevel="0" Project="NUnit.Should.Tests" Source="NUnit.Should.Tests\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Andy\Documents\Software\OpenSource\nunit.should\src\Backup\NUnit.Should.Tests\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NUnit.Should.Tests" Source="NUnit.Should.Tests\NUnit.Should.Tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NUnit.Should.Tests" Source="NUnit.Should.Tests\NUnit.Should.Tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NUnit.Should.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NUnit.Should.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NUnit.Should" Source="NUnit.Should\NUnit.Should.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NUnit.Should.Tests" Source="NUnit.Should.Tests\NUnit.Should.Tests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

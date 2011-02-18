@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Should", "NUnit.Should\NUnit.Should.csproj", "{B61FDE67-FEEA-4CBF-8627-C03CC18F8DA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Should.Tests", "NUnit.Should.Tests\NUnit.Should.Tests.csproj", "{FA36D7B2-9C2F-47C3-A9E3-6468C2355167}"

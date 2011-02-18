@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using NUnit.Framework;
-using System;
+
 namespace NUnit.Should.Tests
 {
 	[TestFixture]
@@ -50,17 +50,5 @@ namespace NUnit.Should.Tests
 			object bacon = null;
 			bacon.ShouldBeNull();
 		}
-
-        [Test]
-        public void ShouldThrowTest()
-        {
-            Action action = () => ExceptionThrower();
-            action.ShouldThrow<NotImplementedException>();
-        }
-
-        private void ExceptionThrower()
-        {
-            throw new NotImplementedException();
-        }
 	}
 }

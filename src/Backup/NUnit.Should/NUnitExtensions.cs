@@ -56,12 +56,5 @@ namespace NUnit.Should
 		{
 			Assert.IsTrue(expected.GetType() == typeof(T));
 		}
-
-        public static void ShouldThrow<T>(this Action action) where T : Exception
-        {
-            Assert.Throws<T>(() => action());
-        }
-
-        
 	}
 }
